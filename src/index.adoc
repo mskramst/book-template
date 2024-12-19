@@ -28,9 +28,14 @@ Type an Introduction here.
 Let's dive right in.
 
 <<<
-== INDEX
+== CHAPTER 1 
 
-include::in_the_beginning.adoc[]
+include::chapter1.adoc[]
+
+<<<
+== CHAPTER 1 
+
+include::chapter2.adoc[]
 
 <<<
 == Appendix
