@@ -1,0 +1,9 @@
+include::dont/dont-big-bang-project.adoc[]
+
+include::dont/dont-god-commit.adoc[]
+
+include::dont/dont-god-pull-request.adoc[]
+
+include::dont/dont-cv-driven-development.adoc[]
+
+include::dont/dont-weakest-dependency.adoc[]

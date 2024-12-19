@@ -1,0 +1,38 @@
+= Book Name Goes Here
+By Author Name Goes Here
+:toc:
+
+:author:     
+:twitter:   
+:date:      2024
+:version:   0.1.0
+:repo:      https://github.com/username/repo name
+:imagesdir: images
+:docinfo1:
+
+[abstract]
+== Abstract
+
+Type an abstract
+
+[preface]
+== Preface
+
+Type a preface
+
+<<<
+== Introduction
+
+Type an Introduction here.
+
+Let's dive right in.
+
+<<<
+== INDEX
+
+include::in_the_beginning.adoc[]
+
+<<<
+== Appendix
+
+include::appendix.adoc[]
